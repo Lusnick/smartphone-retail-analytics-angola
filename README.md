@@ -2,7 +2,7 @@
 ##  Consulting Case: Strategic Management Dashboard for Smartphone Retail
 
 [Português] 
-Este projeto representa uma solução real de Data Analytics desenvolvida como consultor freelance para uma empresa de retalho de telemóveis a operar no mercado de Angola. O cliente necessitava de centralizar o histórico de 20.000 vendas (Janeiro a Agosto de 2026), que estava disperso e sem padronização, para entender a sua real saúde financeira, a eficiência da equipa de vendas e o comportamento demográfico das províncias. 
+Este projeto representa uma solução real de Data Analytics desenvolvida como consultor freelance para uma empresa de retalho de telemóveis a operar no mercado de Angolano. O cliente necessitava de centralizar o histórico de 20.000 vendas (Janeiro a Agosto de 2026), que estava disperso e sem padronização, para entender a sua real saúde financeira, a eficiência da equipa de vendas e o comportamento demográfico das províncias. 
 
 A solução foi desenvolvida **100% dentro do Power BI**, cobrindo desde o processo de ETL (tratamento e anonimização de dados dos clientes), modelação dimensional, até à criação de métricas de negócio complexas em DAX e design do painel executivo final.
 
