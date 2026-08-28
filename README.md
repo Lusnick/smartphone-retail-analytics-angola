@@ -1,5 +1,5 @@
-# 📊 Case de Consultoria: Dashboard de Gestão Estratégica para Retalho de Telemóveis
-## 📊 Consulting Case: Strategic Management Dashboard for Smartphone Retail
+# Case de Consultoria: Dashboard de Gestão Estratégica para Retalho de Telemóveis
+##  Consulting Case: Strategic Management Dashboard for Smartphone Retail
 
 [Português] 
 Este projeto representa uma solução real de Data Analytics desenvolvida como consultor freelance para uma empresa de retalho de telemóveis a operar no mercado de Angola. O cliente necessitava de centralizar o histórico de 20.000 vendas (Janeiro a Agosto de 2026), que estava disperso e sem padronização, para entender a sua real saúde financeira, a eficiência da equipa de vendas e o comportamento demográfico das províncias. 
@@ -21,7 +21,7 @@ The entire solution was built **100% within Power BI**, covering the full data p
 
 ---
 
-## 🎯 Requisitos do Briefing Respondidos / Client Requirements Fulfilled
+##  Requisitos do Briefing Respondidos / Client Requirements Fulfilled
 1. **Pilar Financeiro:** Automação dos KPIs de Faturamento Total, Lucro Bruto Real, Margem Média Global (%) e Ticket Médio por Transação.
 2. **Análise de Portefólio:** Criação de agrupamentos por gamas comerciais (Premium, Intermediário, Entrada) para identificar as subcategorias mais rentáveis e diagnosticar modelos com margens críticas devido a descontos excessivos dos vendedores.
 3. **Performance de Equipa:** Cruzamento de dados de faturamento vs. volume físico por colaborador, revelando o vendedor campeão em receita e o campeão em volume.
@@ -29,7 +29,7 @@ The entire solution was built **100% within Power BI**, covering the full data p
 
 ---
 
-## 📷 Screenshots / Painel Entregue ao Cliente
+##  Screenshots / Painel Entregue ao Cliente
 ### 1. Visão Executiva e Financeira / Executive & Financial View
 ![Dashboard Principal](./03-Imagens_Painel/dashboard_financeiro.png)
 
@@ -38,7 +38,7 @@ The entire solution was built **100% within Power BI**, covering the full data p
 
 ---
 
-## 📈 Resultados e Insights Gerados para o Cliente / Business Outcomes
+##  Resultados e Insights Gerados para o Cliente / Business Outcomes
 *   **Descoberta de Margem Crítica:** O painel revelou que o modelo iPhone 15 128GB operava com a menor margem da loja (14.94%), alertando o cliente sobre descontos excessivos dados pela equipa comercial neste item Premium.
 *   **Sazonalidade Identificada:** Demonstração visual de uma queda acentuada nas vendas a partir de Julho, permitindo ao cliente antecipar estratégias de queima de stock para Agosto.
 *   **Otimização de Logística:** Identificação de Luanda, Benguela e Huambo como o Top 3 de sustentação do negócio, direcionando os investimentos de marketing e distribuição do cliente para as regiões de maior retorno.
