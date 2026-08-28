@@ -34,7 +34,7 @@ The entire solution was built **100% within Power BI**, covering the full data p
 ![Dashboard Principal](./dashboard_financeiro.png)
 
 ### 2. Análise de Portefólio de Produtos / Product Portfolio Analysis
-![Dashboard Produtos](./03-Imagens_Painel/dashboard_produtos.png)
+![Dashboard Produtos](./dashboard_produtos.png)
 
 ---
 
