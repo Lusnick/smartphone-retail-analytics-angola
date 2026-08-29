@@ -1,4 +1,4 @@
-# Case de Consultoria: Dashboard de Gestão Estratégica para Retalho de Telemóveis
+# Caso de Consultoria: Dashboard de Gestão Estratégica para Retalho de Telemóveis
 ##  Consulting Case: Strategic Management Dashboard for Smartphone Retail
 
 [Português] 
