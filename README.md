@@ -2,7 +2,7 @@
 ##  Consulting Case: Strategic Management Dashboard for Smartphone Retail
 
 [Português] 
-Este projeto representa uma solução real de Data Analytics desenvolvida como consultor freelance para uma empresa de retalho de telemóveis a operar no mercado de Angolano. O cliente necessitava de centralizar o histórico de 20.000 vendas (Janeiro a Agosto de 2026), que estava disperso e sem padronização, para entender a sua real saúde financeira, a eficiência da equipa de vendas e o comportamento demográfico das províncias. 
+Este projeto representa uma solução real de Data Analytics desenvolvida como consultor freelance para uma empresa de retalho de telemóveis a operar no mercado  Angolano. O cliente necessitava de centralizar o histórico de 20.000 vendas (Janeiro a Agosto de 2026), que estava disperso e sem padronização, para entender a sua real saúde financeira, a eficiência da equipa de vendas e o comportamento demográfico das províncias. 
 
 A solução foi desenvolvida **100% dentro do Power BI**, cobrindo desde o processo de ETL (tratamento e anonimização de dados dos clientes), modelação dimensional, até à criação de métricas de negócio complexas em DAX e design do painel executivo final.
 
@@ -13,7 +13,7 @@ The entire solution was built **100% within Power BI**, covering the full data p
 
 ---
 
-## 🛠️ Desafios Técnicos Solucionados no Power BI / Technical Challenges Solved
+##  Desafios Técnicos Solucionados no Power BI / Technical Challenges Solved
 *   **LGPD & Anonimização:** Tratamento inicial no Power Query para proteger a privacidade dos clientes da loja, mantendo apenas dados demográficos essenciais.
 *   **Tratamento de Dados Brutos (ETL):** Correção de inconsistências severas de digitação humana na coluna de equipamentos e formas de pagamento utilizando funções de string (*Trim* e substituição de caracteres ocultos).
 *   **Inteligência de Tempo (Time Intelligence):** Criação de uma tabela Calendário customizada via DAX para analisar o comportamento das vendas ao longo dos meses e calcular variações percentuais de crescimento a curto prazo (MoM%).
