@@ -31,7 +31,7 @@ The entire solution was built **100% within Power BI**, covering the full data p
 
 ##  Screenshots / Painel Entregue ao Cliente
 ### 1. Visão Executiva e Financeira / Executive & Financial View
-![Dashboard Principal](./dashboard_financeiro.png)
+![Dashboard Principal](./)
 
 ### 2. Análise de Portefólio de Produtos / Product Portfolio Analysis
 ![Dashboard Produtos](./dashboard_produtos.png)
